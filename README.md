@@ -476,5 +476,3 @@ This project showcases the practical application of **Power BI**, **Power Query*
 * Analytical Storytelling
 
 ---
-
-This README is structured to communicate not just what the dashboard shows, but **why it matters**—a quality that hiring managers and recruiters often look for in analytics portfolio projects.
